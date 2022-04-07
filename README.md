@@ -3,7 +3,7 @@
 The D3.js line chart practice by Angular.
 
 ## Image
-![](https://github.com/s95s14236/RealEstateDataVisualization/blob/master/taichungPrice.png =300x200)
+<img src="https://github.com/s95s14236/RealEstateDataVisualization/blob/master/taichungPrice.png" width="300" height="200">
 
 ## Setup
 - download or clone the repository
